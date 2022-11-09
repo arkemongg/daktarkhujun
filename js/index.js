@@ -1,4 +1,4 @@
-console.log("Hi");
+
 
 let slidebtns = document.querySelector("body > div.page-two.container-fluid > div > div.click-flex > div");
 
