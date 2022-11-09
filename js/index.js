@@ -1,7 +1,7 @@
 
 
 let slidebtns = document.querySelector("body > div.page-two.container-fluid > div > div.click-flex > div");
-
+console.log("Hi");
 slidebtns.addEventListener('click',(x)=>{
     if(x.target.classList=='others'){
         let item = x.target;
